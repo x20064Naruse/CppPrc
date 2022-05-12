@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\ue4_project\\cppprc\\cppprc\\intermediate\\build\\win64\\unrealeditor\\inc\\cppprc\\cppprcgamemodebase.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\ue4_project\\cppprc\\cppprc\\intermediate\\build\\win64\\cppprceditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\ue4_project\\cppprc\\cppprc\\intermediate\\build\\win64\\unrealeditor\\development\\cppprc\\definitions.cppprc.h",
+            "d:\\ue4_project\\cppprc\\cppprc\\source\\cppprc\\cppprcgamemodebase.h",
+            "d:\\games\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "d:\\games\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "d:\\games\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "d:\\games\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "d:\\ue4_project\\cppprc\\cppprc\\intermediate\\build\\win64\\unrealeditor\\inc\\cppprc\\cppprcgamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

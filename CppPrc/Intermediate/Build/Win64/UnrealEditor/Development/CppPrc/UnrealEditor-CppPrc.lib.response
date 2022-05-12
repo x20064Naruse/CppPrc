@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-CppPrc.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\ue4_project\CppPrc\CppPrc\Intermediate\Build\Win64\CppPrcEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\ue4_project\CppPrc\CppPrc\Intermediate\Build\Win64\UnrealEditor\Development\CppPrc\CppPrc.cpp.obj"
+"D:\ue4_project\CppPrc\CppPrc\Intermediate\Build\Win64\UnrealEditor\Development\CppPrc\CppPrcGameModeBase.cpp.obj"
+"D:\ue4_project\CppPrc\CppPrc\Intermediate\Build\Win64\UnrealEditor\Development\CppPrc\CppPrc.init.gen.cpp.obj"
+"D:\ue4_project\CppPrc\CppPrc\Intermediate\Build\Win64\UnrealEditor\Development\CppPrc\CppPrcGameModeBase.gen.cpp.obj"
+"D:\ue4_project\CppPrc\CppPrc\Intermediate\Build\Win64\UnrealEditor\Development\CppPrc\Default.rc2.res"
+/OUT:"D:\ue4_project\CppPrc\CppPrc\Intermediate\Build\Win64\UnrealEditor\Development\CppPrc\UnrealEditor-CppPrc.lib"

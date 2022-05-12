@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "CppPrc",
+			"Path": "D:\\ue4_project\\CppPrc\\CppPrc\\Source\\CppPrc.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CppPrcEditor",
+			"Path": "D:\\ue4_project\\CppPrc\\CppPrc\\Source\\CppPrcEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

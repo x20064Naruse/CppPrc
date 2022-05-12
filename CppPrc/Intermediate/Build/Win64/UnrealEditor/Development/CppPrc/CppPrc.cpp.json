@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\ue4_project\\cppprc\\cppprc\\source\\cppprc\\cppprc.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\ue4_project\\cppprc\\cppprc\\intermediate\\build\\win64\\cppprceditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\ue4_project\\cppprc\\cppprc\\intermediate\\build\\win64\\unrealeditor\\development\\cppprc\\definitions.cppprc.h",
+            "d:\\ue4_project\\cppprc\\cppprc\\source\\cppprc\\cppprc.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

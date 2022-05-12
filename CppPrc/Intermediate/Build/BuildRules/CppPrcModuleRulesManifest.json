@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\ue4_project\\CppPrc\\CppPrc\\Source\\CppPrc\\CppPrc.Build.cs",
+		"D:\\ue4_project\\CppPrc\\CppPrc\\Source\\CppPrc.Target.cs",
+		"D:\\ue4_project\\CppPrc\\CppPrc\\Source\\CppPrcEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.1"
+}
